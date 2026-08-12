@@ -5,169 +5,94 @@
 <br />
 
 <div align="center">
-  <a href="https://www.kasunindika.com"><img src="https://img.shields.io/badge/Website-kasunindika.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/kasundigital/"><img src="https://img.shields.io/badge/LinkedIn-Kasun_Indika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/kasundigital"><img src="https://img.shields.io/badge/GitHub-kasundigital-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-
-<br />
-
-<div align="center">
   <strong>Freelance IT Consultant · Linux & Server Administration · Cloud · DevOps · Automation</strong>
+  <br /><br />
+  <a href="https://www.kasunindika.com">Website</a> ·
+  <a href="https://www.linkedin.com/in/kasundigital/">LinkedIn</a> ·
+  <a href="https://github.com/kasundigital?tab=repositories">Repositories</a>
 </div>
 
-## 👋 About Me
+---
+
+## About Me
 
 I'm **Kasun Indika**, a Freelance IT Consultant from Sri Lanka with **17+ years of hands-on IT experience** across infrastructure, systems administration, cloud, networking, automation and business technology.
 
-My work sits where **Linux infrastructure, DevOps, monitoring, automation and practical software development** meet. I enjoy taking real operational problems and turning them into reliable systems, useful internal tools and self-hosted products.
+My work sits at the intersection of **Linux infrastructure, DevOps, monitoring, automation and practical software development**. I focus on solving real operational problems with systems that are reliable, maintainable and useful in production.
 
-- 🐧 Linux, servers, virtualization and infrastructure
-- 🐳 Docker, deployment workflows and self-hosted platforms
-- ☁️ Cloud, DNS, reverse proxies, SSL and networking
-- 📊 Monitoring, observability and operational dashboards
-- ⚙️ Automation with Bash, Python, APIs, cron and systemd
-- 🧩 Practical web applications and SaaS products
-- 🎯 Focused on systems that are maintainable, secure and genuinely useful
+I work across server infrastructure, self-hosted platforms, monitoring and observability, deployment automation, APIs, databases and business applications.
 
-## 🛠️ Technology Stack
+## Core Expertise
 
-<div align="center">
+| Area | Technologies & Experience |
+|---|---|
+| **Linux & Infrastructure** | Linux, Ubuntu, Debian, Windows Server, Proxmox VE, VMware ESXi |
+| **Containers & DevOps** | Docker, Docker Compose, Git, GitHub, Ansible, CI/CD workflows |
+| **Networking & Edge** | Nginx, Caddy, Cloudflare, DNS, SSL/TLS, VPN, reverse proxies |
+| **Monitoring & Observability** | Grafana, Prometheus, Loki, Netdata, Uptime Kuma, cAdvisor |
+| **Automation** | Bash, Python, REST APIs, cron, systemd, rclone, rsync |
+| **Development** | PHP, JavaScript, Node.js, Python, HTML/CSS |
+| **Databases** | MySQL, MariaDB, PostgreSQL, Microsoft SQL Server |
+| **Platforms** | Webmin, Portainer, Home Assistant, self-hosted infrastructure |
 
-### Infrastructure & Cloud
+## Selected Work
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,cloudflare,nginx&theme=dark" alt="Infrastructure and cloud technologies" />
+### [GetStackPulse](https://github.com/kasundigital/getstackpulse)
+**Free and open-source monitoring for websites, services and infrastructure.**
 
-<br />
-
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
-<img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" />
-
-### DevOps & Automation
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,ansible,python,bash&theme=dark" alt="DevOps and automation technologies" />
-
-### Development & Databases
-
-<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres&theme=dark" alt="Development and database technologies" />
-
-<br />
-
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-
-### Monitoring & Observability
-
-<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" alt="Monitoring technologies" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=white" alt="Uptime Kuma" />
-<img src="https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white" alt="Netdata" />
-<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Loki" />
-
-</div>
-
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📡 [GetStackPulse](https://github.com/kasundigital/getstackpulse)
-
-<img src="https://raw.githubusercontent.com/kasundigital/getstackpulse/master/public/getstackpulse-logo.png?v=20260813" width="260" alt="GetStackPulse logo" />
-
-**Free & open-source monitoring for websites, services and infrastructure.**
-
-Organizations, role-based access, audit logging, self-hosting and an expanding roadmap toward server monitoring, incidents and intelligent diagnostics.
+A self-hosted monitoring platform focused on data ownership, organizations and workspaces, role-based access, audit logging, responsive monitoring workflows and an expanding roadmap toward server monitoring, incidents and intelligent diagnostics.
 
 [Website](https://getstackpulse.com) · [Repository](https://github.com/kasundigital/getstackpulse)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🎬 [arr-lang-scanner](https://github.com/kasundigital/arr-lang-scanner)
+### [arr-lang-scanner](https://github.com/kasundigital/arr-lang-scanner)
+A lightweight web application for detecting audio languages in **Sonarr and Radarr** media libraries using MediaInfo, with season, episode and movie-level visibility.
 
-<img src="https://img.shields.io/badge/ARR-Language_Scanner-6C63FF?style=for-the-badge&logo=python&logoColor=white" alt="arr-lang-scanner" />
+`Python` · `Sonarr` · `Radarr` · `MediaInfo` · `Linux` · `systemd`
 
-A lightweight web-based scanner for detecting audio languages inside **Sonarr and Radarr** media libraries using MediaInfo.
+---
 
-**Python · Sonarr · Radarr · MediaInfo · systemd**
+### [Python App Deployer](https://github.com/kasundigital/python-app-deployer)
+A server-side deployment utility that automates Python application extraction, dependency installation, port allocation and **systemd service** creation.
 
-[Repository](https://github.com/kasundigital/arr-lang-scanner)
+`Python` · `Bash` · `Linux` · `systemd` · `Automation`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🚀 [Python App Deployer](https://github.com/kasundigital/python-app-deployer)
+### Infrastructure & Automation
+I also build and maintain practical tooling around Linux administration, Docker deployments, backup automation, reverse proxies, monitoring stacks, media automation and day-to-day server operations.
 
-<img src="https://img.shields.io/badge/Python-App_Deployer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python App Deployer" />
+[Explore my repositories →](https://github.com/kasundigital?tab=repositories)
 
-Server-side deployment utility that automates application extraction, Python dependencies, port allocation and **systemd service** creation.
-
-**Python · Linux · Bash · systemd · Automation**
-
-[Repository](https://github.com/kasundigital/python-app-deployer)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 Infrastructure & Automation
-
-<img src="https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Infrastructure" />
-
-Practical tools and deployments around Linux administration, Docker, backups, reverse proxies, monitoring, media automation and server operations.
-
-**Linux · Docker · Nginx · Caddy · rclone · Grafana**
-
-[Explore repositories](https://github.com/kasundigital?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-## 🔭 Current Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GetStackPulse-Active_Development-2388FF?style=for-the-badge" alt="GetStackPulse active development" />
-<img src="https://img.shields.io/badge/Linux_&_Docker-Automation-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Linux and Docker automation" />
-<img src="https://img.shields.io/badge/Monitoring-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Monitoring and observability" />
-<img src="https://img.shields.io/badge/Self--Hosted-Software-181717?style=for-the-badge&logo=github&logoColor=white" alt="Self-hosted software" />
-
-</div>
+## Current Focus
 
 - Building and growing **GetStackPulse**
-- Infrastructure monitoring and observability
-- Linux and Docker automation
-- Self-hosted SaaS and business applications
-- Practical AI-assisted workflows and diagnostics
-- Improving deployment and operational tooling
+- Linux and Docker infrastructure automation
+- Monitoring, observability and operational dashboards
+- Self-hosted software and SaaS products
+- Deployment workflows and server management tooling
+- Practical AI-assisted automation and diagnostics
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="./profile/stats.svg" width="49%" alt="Kasun Indika GitHub stats" />
   <img src="./profile/top-langs.svg" width="49%" alt="Most used languages" />
 </div>
 
-> The cards above are generated inside this repository by GitHub Actions, so the profile does not depend on the public shared `github-readme-stats.vercel.app` endpoint.
+<sub>Statistics are generated automatically inside this repository and refreshed by GitHub Actions.</sub>
 
-## 🌐 Connect
+## Connect
 
-<div align="center">
-  <a href="https://www.kasunindika.com"><img src="https://img.shields.io/badge/kasunindika.com-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kasun Indika website" /></a>
-  <a href="https://www.linkedin.com/in/kasundigital/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/kasundigital"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
+**Website:** [kasunindika.com](https://www.kasunindika.com)  
+**LinkedIn:** [linkedin.com/in/kasundigital](https://www.linkedin.com/in/kasundigital/)  
+**GitHub:** [github.com/kasundigital](https://github.com/kasundigital)
 
 ---
 
 <div align="center">
-  <strong>Linux · Cloud · DevOps · Automation · Observability</strong><br />
+  <strong>Linux · Cloud · DevOps · Automation · Observability</strong>
+  <br />
   <sub>Building reliable systems and practical software.</sub>
 </div>
