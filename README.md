@@ -10,6 +10,12 @@
   <a href="https://github.com/kasundigital"><img src="https://img.shields.io/badge/GitHub-kasundigital-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
+<br />
+
+<div align="center">
+  <strong>Freelance IT Consultant · Linux & Server Administration · Cloud · DevOps · Automation</strong>
+</div>
+
 ## 👋 About Me
 
 I'm **Kasun Indika**, a Freelance IT Consultant from Sri Lanka with **17+ years of hands-on IT experience** across infrastructure, systems administration, cloud, networking, automation and business technology.
@@ -24,62 +30,116 @@ My work sits where **Linux infrastructure, DevOps, monitoring, automation and pr
 - 🧩 Practical web applications and SaaS products
 - 🎯 Focused on systems that are maintainable, secure and genuinely useful
 
-## 🛠️ Core Stack
+## 🛠️ Technology Stack
+
+<div align="center">
 
 ### Infrastructure & Cloud
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,cloudflare,nginx&theme=dark" alt="Infrastructure and cloud technologies" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+<img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" />
 
 ### DevOps & Automation
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,ansible,python,bash&theme=dark" alt="DevOps and automation technologies" />
 
-### Web, Proxy & Databases
+### Development & Databases
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres&theme=dark" alt="Development and database technologies" />
+
+<br />
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 
 ### Monitoring & Observability
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white)
-![Netdata](https://img.shields.io/badge/Netdata-00AB44?style=flat-square&logo=netdata&logoColor=white)
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" alt="Monitoring technologies" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=white" alt="Uptime Kuma" />
+<img src="https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white" alt="Netdata" />
+<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Loki" />
+
+</div>
 
 ## 🚀 Featured Work
 
-### [GetStackPulse](https://github.com/kasundigital/getstackpulse)
-**Open-source monitoring platform for websites, services and infrastructure.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Built around self-hosting, ownership of monitoring data, organizations/workspaces, role-based access, audit logging and an expanding roadmap toward server monitoring, incidents and intelligent diagnostics.
+### 📡 [GetStackPulse](https://github.com/kasundigital/getstackpulse)
 
-[![GetStackPulse](https://img.shields.io/badge/Visit-getstackpulse.com-2388FF?style=flat-square&logo=googlechrome&logoColor=white)](https://getstackpulse.com)
+<img src="https://raw.githubusercontent.com/kasundigital/getstackpulse/master/public/getstackpulse-logo.png?v=20260813" width="260" alt="GetStackPulse logo" />
 
-### [arr-lang-scanner](https://github.com/kasundigital/arr-lang-scanner)
-A lightweight web-based tool for scanning audio languages in **Sonarr and Radarr** media libraries, with per-episode/movie visibility and MediaInfo-based detection.
+**Free & open-source monitoring for websites, services and infrastructure.**
 
-### [Python App Deployer](https://github.com/kasundigital/python-app-deployer)
-A deployment utility for Python applications that automates extraction, dependency setup, port allocation and **systemd service** creation.
+Organizations, role-based access, audit logging, self-hosting and an expanding roadmap toward server monitoring, incidents and intelligent diagnostics.
 
-### Infrastructure & Automation Projects
-I also build and maintain practical tools around Linux administration, backup automation, Docker deployments, media automation, monitoring stacks, reverse proxies and server operations.
+[Website](https://getstackpulse.com) · [Repository](https://github.com/kasundigital/getstackpulse)
 
-## 🔭 What I'm Working On
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [arr-lang-scanner](https://github.com/kasundigital/arr-lang-scanner)
+
+<img src="https://img.shields.io/badge/ARR-Language_Scanner-6C63FF?style=for-the-badge&logo=python&logoColor=white" alt="arr-lang-scanner" />
+
+A lightweight web-based scanner for detecting audio languages inside **Sonarr and Radarr** media libraries using MediaInfo.
+
+**Python · Sonarr · Radarr · MediaInfo · systemd**
+
+[Repository](https://github.com/kasundigital/arr-lang-scanner)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [Python App Deployer](https://github.com/kasundigital/python-app-deployer)
+
+<img src="https://img.shields.io/badge/Python-App_Deployer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python App Deployer" />
+
+Server-side deployment utility that automates application extraction, Python dependencies, port allocation and **systemd service** creation.
+
+**Python · Linux · Bash · systemd · Automation**
+
+[Repository](https://github.com/kasundigital/python-app-deployer)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Infrastructure & Automation
+
+<img src="https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Infrastructure" />
+
+Practical tools and deployments around Linux administration, Docker, backups, reverse proxies, monitoring, media automation and server operations.
+
+**Linux · Docker · Nginx · Caddy · rclone · Grafana**
+
+[Explore repositories](https://github.com/kasundigital?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 🔭 Current Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GetStackPulse-Active_Development-2388FF?style=for-the-badge" alt="GetStackPulse active development" />
+<img src="https://img.shields.io/badge/Linux_&_Docker-Automation-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Linux and Docker automation" />
+<img src="https://img.shields.io/badge/Monitoring-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Monitoring and observability" />
+<img src="https://img.shields.io/badge/Self--Hosted-Software-181717?style=for-the-badge&logo=github&logoColor=white" alt="Self-hosted software" />
+
+</div>
 
 - Building and growing **GetStackPulse**
 - Infrastructure monitoring and observability
@@ -88,25 +148,22 @@ I also build and maintain practical tools around Linux administration, backup au
 - Practical AI-assisted workflows and diagnostics
 - Improving deployment and operational tooling
 
-## 💡 How I Work
-
-I prefer **solving the real problem first**. That often means combining infrastructure knowledge, scripting, APIs, databases and simple application development instead of forcing every problem into a single technology.
-
-My goal is usually the same: **make the system easier to operate, easier to understand and easier to maintain.**
-
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kasundigital&show_icons=true&hide_border=true&theme=github_dark" alt="Kasun Indika GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasundigital&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+  <img src="./profile/stats.svg" width="49%" alt="Kasun Indika GitHub stats" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Most used languages" />
 </div>
+
+> The cards above are generated inside this repository by GitHub Actions, so the profile does not depend on the public shared `github-readme-stats.vercel.app` endpoint.
 
 ## 🌐 Connect
 
-- 🌍 **Website:** [kasunindika.com](https://www.kasunindika.com)
-- 💼 **LinkedIn:** [linkedin.com/in/kasundigital](https://www.linkedin.com/in/kasundigital/)
-- 🐙 **GitHub:** [github.com/kasundigital](https://github.com/kasundigital)
-- 💻 **Fiverr:** [fiverr.com/kasundigital](https://www.fiverr.com/kasundigital)
+<div align="center">
+  <a href="https://www.kasunindika.com"><img src="https://img.shields.io/badge/kasunindika.com-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kasun Indika website" /></a>
+  <a href="https://www.linkedin.com/in/kasundigital/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/kasundigital"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
 ---
 
