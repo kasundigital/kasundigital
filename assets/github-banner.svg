@@ -1,8 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
-  <title id="title">Kasun Indika GitHub Profile Banner</title>
-  <desc id="desc">Professional dark technology banner for Kasun Indika</desc>
+  <title id="title">Kasun Indika — GitHub Profile</title>
+  <desc id="desc">Dark professional technology banner for Kasun Indika</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#07111f"/>
-      <stop offset="55%" stop-color="#0b1626"/>
-      <stop
+      <stop offset="0%" stop-color="#06101d"/>
+      <stop offset="52%" stop-color="#0b1728"/>
+      <stop offset="100%" stop-color="#10233b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#2388ff" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#2388ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="500" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="500" rx="28" fill="url(#glow)"/>
+  <rect width="1600" height="500" rx="28" fill="url(#grid)"/>
+
+  <g opacity="0.8">
+    <circle cx="1320" cy="110" r="5" fill="#58a6ff"/>
+    <circle cx="1450" cy="180" r="4" fill="#58a6ff"/>
+    <circle cx="1240" cy="330" r="4" fill="#58a6ff"/>
+    <path d="M1180 145h105l52 45h105" fill="none" stroke="#58a6ff" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M1210 365h90l52-48h115" fill="none" stroke="#58a6ff" stroke-opacity="0.22" stroke-width="2"/>
+    <rect x="1268" y="210" width="220" height="88" rx="16" fill="#0b1728" stroke="#58a6ff" stroke-opacity="0.25"/>
+    <circle cx="1300" cy="242" r="7" fill="#3fb950"/>
+    <rect x="1320" y="235" width="122" height="12" rx="6" fill="#ffffff" fill-opacity="0.13"/>
+    <circle cx="1300" cy="270" r="7" fill="#3fb950"/>
+    <rect x="1320" y="263" width="92" height="12" rx="6" fill="#ffffff" fill-opacity="0.10"/>
+  </g>
+
+  <text x="105" y="185" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" fill="#ffffff">KASUN INDIKA</text>
+  <text x="108" y="245" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="500" fill="#8cbfff">Linux • Cloud • DevOps • Automation • Observability</text>
+  <text x="108" y="310" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#b7c6d9">Freelance IT Consultant · Building reliable systems and practical software</text>
+  <rect x="108" y="355" width="460" height="3" rx="2" fill="#2388ff"/>
+  <text x="108" y="406" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#8393a7">github.com/kasundigital  ·  kasunindika.com</text>
+</svg>
