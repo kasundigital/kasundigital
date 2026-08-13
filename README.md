@@ -5,65 +5,117 @@
 <br />
 
 <div align="center">
-  <strong>Freelance IT Consultant · Linux & Server Administration · Cloud · DevOps · Automation</strong>
+  <b>Freelance IT Consultant · Infrastructure Builder · Open-Source Creator</b>
+  <br />
+  <sub>Linux · Cloud · DevOps · Automation · Observability · Practical Software</sub>
   <br /><br />
-  <a href="https://www.kasunindika.com">Website</a> ·
-  <a href="https://www.linkedin.com/in/kasundigital/">LinkedIn</a> ·
-  <a href="https://github.com/kasundigital?tab=repositories">Repositories</a>
+  <a href="https://www.kasunindika.com"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kasundigital/"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kasundigital?tab=repositories"><b>Repositories</b></a>
 </div>
 
 ---
 
-## About Me
+## Hello, I'm Kasun 👋
 
-I'm **Kasun Indika**, a Freelance IT Consultant from Sri Lanka with **17+ years of hands-on IT experience** across infrastructure, systems administration, cloud, networking, automation and business technology.
+I'm **Kasun Indika**, a Sri Lanka–based **Freelance IT Consultant** with **17+ years of hands-on experience** across systems administration, infrastructure, networking, cloud, automation and business technology.
 
-My work sits at the intersection of **Linux infrastructure, DevOps, monitoring, automation and practical software development**. I focus on solving real operational problems with systems that are reliable, maintainable and useful in production.
+I enjoy taking real operational problems and turning them into **reliable infrastructure, automation, monitoring systems and practical software**. My work ranges from Linux and Docker environments to observability stacks, deployment tooling, APIs, databases and self-hosted products.
 
-I work across server infrastructure, self-hosted platforms, monitoring and observability, deployment automation, APIs, databases and business applications.
+> **I build systems that are useful in production — not just impressive in a demo.**
 
-## Core Expertise
+### What I work on
 
-| Area | Technologies & Experience |
-|---|---|
-| **Linux & Infrastructure** | Linux, Ubuntu, Debian, Windows Server, Proxmox VE, VMware ESXi |
-| **Containers & DevOps** | Docker, Docker Compose, Git, GitHub, Ansible, CI/CD workflows |
-| **Networking & Edge** | Nginx, Caddy, Cloudflare, DNS, SSL/TLS, VPN, reverse proxies |
-| **Monitoring & Observability** | Grafana, Prometheus, Loki, Netdata, Uptime Kuma, cAdvisor |
-| **Automation** | Bash, Python, REST APIs, cron, systemd, rclone, rsync |
-| **Development** | PHP, JavaScript, Node.js, Python, HTML/CSS |
-| **Databases** | MySQL, MariaDB, PostgreSQL, Microsoft SQL Server |
-| **Platforms** | Webmin, Portainer, Home Assistant, self-hosted infrastructure |
+| Infrastructure | Automation | Observability | Products |
+|---|---|---|---|
+| Linux servers | Bash & Python | Grafana | Self-hosted apps |
+| Docker platforms | Deployment tooling | Prometheus | SaaS products |
+| Reverse proxies | APIs & integrations | Loki | Business systems |
+| Cloud & networking | Backup workflows | Uptime monitoring | Open source |
 
-## Selected Work
+---
 
-### [GetStackPulse](https://github.com/kasundigital/getstackpulse)
+## Featured Project
+
+### 🚀 [GetStackPulse](https://github.com/kasundigital/getstackpulse)
+
 **Free and open-source monitoring for websites, services and infrastructure.**
 
-A self-hosted monitoring platform focused on data ownership, organizations and workspaces, role-based access, audit logging, responsive monitoring workflows and an expanding roadmap toward server monitoring, incidents and intelligent diagnostics.
+GetStackPulse is my current flagship open-source project — a self-hosted monitoring platform designed around **data ownership, organizations, workspaces, role-based access, audit logging and modern monitoring workflows**.
 
-[Website](https://getstackpulse.com) · [Repository](https://github.com/kasundigital/getstackpulse)
+It is evolving beyond basic uptime monitoring toward broader server visibility, incident workflows and intelligent diagnostics.
+
+**Project links:** [getstackpulse.com](https://getstackpulse.com) · [GitHub Repository](https://github.com/kasundigital/getstackpulse)
 
 ---
+
+## Selected Open-Source Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [arr-lang-scanner](https://github.com/kasundigital/arr-lang-scanner)
-A lightweight web application for detecting audio languages in **Sonarr and Radarr** media libraries using MediaInfo, with season, episode and movie-level visibility.
+Detect audio languages across **Sonarr and Radarr** libraries using MediaInfo, with movie, season and episode-level visibility.
 
-`Python` · `Sonarr` · `Radarr` · `MediaInfo` · `Linux` · `systemd`
+`Python` `MediaInfo` `Sonarr` `Radarr` `Linux`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### [Python App Deployer](https://github.com/kasundigital/python-app-deployer)
-A server-side deployment utility that automates Python application extraction, dependency installation, port allocation and **systemd service** creation.
+Server-side deployment utility for Python apps with dependency installation, port allocation and **systemd service creation**.
 
-`Python` · `Bash` · `Linux` · `systemd` · `Automation`
+`Python` `Bash` `Linux` `systemd` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Jellyfin Exporter](https://github.com/kasundigital/jellyfin-exporter)
+Monitoring-focused tooling around Jellyfin environments and infrastructure visibility.
+
+`Jellyfin` `Monitoring` `Linux` `Observability`
+
+</td>
+<td width="50%" valign="top">
+
+### [Trakt to Letterboxd](https://github.com/kasundigital/trakt-to-letterboxd)
+Utility tooling for media-library workflows between Trakt and Letterboxd.
+
+`Automation` `Media` `APIs` `Python`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/kasundigital?tab=repositories"><b>Explore all public repositories →</b></a>
+</div>
 
 ---
 
-### Infrastructure & Automation
-I also build and maintain practical tooling around Linux administration, Docker deployments, backup automation, reverse proxies, monitoring stacks, media automation and day-to-day server operations.
+## Technical Toolbox
 
-[Explore my repositories →](https://github.com/kasundigital?tab=repositories)
+**Systems & Infrastructure**  
+`Ubuntu` · `Debian` · `Windows Server` · `Proxmox VE` · `VMware ESXi` · `Docker` · `Docker Compose`
+
+**Networking & Edge**  
+`Nginx` · `Caddy` · `Cloudflare` · `DNS` · `SSL/TLS` · `VPN` · `Reverse Proxy`
+
+**Monitoring & Observability**  
+`Grafana` · `Prometheus` · `Loki` · `Netdata` · `Uptime Kuma` · `cAdvisor`
+
+**Automation & Development**  
+`Bash` · `Python` · `PHP` · `JavaScript` · `Node.js` · `REST APIs` · `Ansible` · `Git` · `GitHub`
+
+**Data & Operations**  
+`MySQL` · `MariaDB` · `PostgreSQL` · `Microsoft SQL Server` · `rclone` · `rsync` · `systemd` · `cron`
+
+---
 
 ## Current Focus
 
@@ -71,28 +123,38 @@ I also build and maintain practical tooling around Linux administration, Docker 
 - Linux and Docker infrastructure automation
 - Monitoring, observability and operational dashboards
 - Self-hosted software and SaaS products
-- Deployment workflows and server management tooling
+- Deployment workflows and server-management tooling
 - Practical AI-assisted automation and diagnostics
+
+---
 
 ## GitHub Activity
 
 <div align="center">
-  <img src="./profile/stats.svg" width="49%" alt="Kasun Indika GitHub stats" />
-  <img src="./profile/top-langs.svg" width="49%" alt="Most used languages" />
+  <img src="./profile/stats.svg" width="49%" alt="Kasun Indika GitHub statistics" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Kasun Indika most used languages" />
 </div>
 
-<sub>Statistics are generated automatically inside this repository and refreshed by GitHub Actions.</sub>
+<div align="center">
+  <sub>Statistics are generated inside this repository and refreshed automatically with GitHub Actions.</sub>
+</div>
 
-## Connect
+---
 
-**Website:** [kasunindika.com](https://www.kasunindika.com)  
-**LinkedIn:** [linkedin.com/in/kasundigital](https://www.linkedin.com/in/kasundigital/)  
-**GitHub:** [github.com/kasundigital](https://github.com/kasundigital)
+## Beyond Public Repositories
+
+A large part of my work is production and client infrastructure that cannot be published publicly. This includes **server administration, cloud deployments, monitoring stacks, backup systems, business applications, media infrastructure, dashboards and automation workflows**.
+
+For a broader view of my work, visit **[kasunindika.com](https://www.kasunindika.com)**.
 
 ---
 
 <div align="center">
-  <strong>Linux · Cloud · DevOps · Automation · Observability</strong>
-  <br />
-  <sub>Building reliable systems and practical software.</sub>
+  <b>Build reliable systems. Automate repetitive work. Make operations visible.</b>
+  <br /><br />
+  <a href="https://www.kasunindika.com">kasunindika.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kasundigital/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kasundigital">GitHub</a>
 </div>
