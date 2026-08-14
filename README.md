@@ -39,24 +39,30 @@ I like building things that solve real operational problems — from Linux and D
 
 ---
 
-# 🚀 Featured: GetStackPulse
+# 🚀 Featured: StackPulse
 
 <div align="center">
+  <a href="https://github.com/kasundigital/stackpulse">
+    <img src="https://raw.githubusercontent.com/kasundigital/stackpulse/master/public/stackpulse-logo.png" width="440" alt="StackPulse" />
+  </a>
 
-### **Self-hosted monitoring for websites, services and infrastructure**
+  ### **Monitor everything. Own your data.**
 
-[**🌐 Website**](https://getstackpulse.com) &nbsp;&nbsp;•&nbsp;&nbsp; [**⭐ GitHub Repository**](https://github.com/kasundigital/getstackpulse)
-
+  [**🌐 Website**](https://getstackpulse.com/) &nbsp;&nbsp;•&nbsp;&nbsp;
+  [**⭐ GitHub Repository**](https://github.com/kasundigital/stackpulse) &nbsp;&nbsp;•&nbsp;&nbsp;
+  [**🐳 Docker Hub**](https://hub.docker.com/r/kasundigital/stackpulse) &nbsp;&nbsp;•&nbsp;&nbsp;
+  [**❤️ Support**](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=admin%40clickandpick.shop&currency_code=USD&source=url)
 </div>
 
-**GetStackPulse** is my current flagship open-source project. It is designed around **data ownership, organizations, workspaces, role-based access, audit logging and modern monitoring workflows**.
+**StackPulse** is my flagship free and open-source self-hosted monitoring platform. It brings website, API, SSL certificate, Linux server and Docker monitoring together in one modern operational dashboard.
 
-The roadmap expands beyond classic uptime monitoring toward **server visibility, incidents, diagnostics and smarter operational insights**.
+Current capabilities include organizations and role-based access, customer/project scoping, Linux telemetry, Docker and systemd visibility, incident workflows, reliability alerts, certificate expiration tracking and evidence-based diagnostics.
 
 ```text
 STATUS        : ACTIVE DEVELOPMENT
-TYPE          : OPEN SOURCE / SELF-HOSTED
-FOCUS         : MONITORING + INFRASTRUCTURE
+TYPE          : FREE & OPEN SOURCE / SELF-HOSTED
+FOCUS         : WEBSITES + SERVERS + INFRASTRUCTURE
+DISTRIBUTION  : GITHUB + DOCKER HUB
 BUILDER       : KASUN INDIKA
 ```
 
@@ -144,7 +150,7 @@ Utility tooling for media workflows between Trakt and Letterboxd.
 `Prometheus`  
 `Loki`  
 `Netdata`  
-`Uptime Kuma`  
+`StackPulse`  
 `cAdvisor`
 
 </td>
@@ -190,7 +196,7 @@ Utility tooling for media workflows between Trakt and Letterboxd.
 
 ## ⚡ What I'm Building Now
 
-- **GetStackPulse** — open-source monitoring platform
+- **StackPulse** — free and open-source website, server and infrastructure monitoring
 - Linux & Docker infrastructure automation
 - Monitoring and observability dashboards
 - Self-hosted software and SaaS products
@@ -209,6 +215,20 @@ Utility tooling for media workflows between Trakt and Letterboxd.
 <div align="center">
   <sub>Generated inside this repository and refreshed automatically with GitHub Actions.</sub>
 </div>
+
+---
+
+## ❤️ Support My Open-Source Work
+
+If my open-source tools save you time or help your infrastructure, you can support continued development through PayPal.
+
+<div align="center">
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=admin%40clickandpick.shop&currency_code=USD&source=url">
+    <img src="https://img.shields.io/badge/Support_Open_Source-PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white" alt="Support Kasun Indika on PayPal" />
+  </a>
+</div>
+
+Support is always optional. Stars, bug reports, documentation and contributions are equally valuable.
 
 ---
 
