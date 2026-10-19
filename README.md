@@ -1,62 +1,131 @@
 <div align="center">
-  <img src="./assets/github-banner.svg" alt="Kasun Indika | Linux, Docker, DevOps and automation" width="100%" />
 
-  # Kasun Indika
-  **Freelance IT Consultant · Linux & Server Administrator · Open-Source Builder**
+<img src="./assets/profile-hero-2026.svg" alt="Kasun Indika — Linux, infrastructure and automation" width="100%">
 
-  Building reliable infrastructure, practical automation and self-hosted software in Sri Lanka.
+<br>
 
-  [Website](https://www.kasunindika.com) · [LinkedIn](https://www.linkedin.com/in/kasundigital/) · [Projects](https://github.com/kasundigital?tab=repositories)
+**Freelance IT Consultant** &nbsp;•&nbsp; **Linux & Server Administrator** &nbsp;•&nbsp; **Open-Source Builder**
+
+<sub>17+ years turning complex infrastructure into dependable, maintainable systems.</sub>
+
+<br><br>
+
+<a href="https://www.kasunindika.com"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/kasundigital/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"></a>
+<a href="https://github.com/kasundigital?tab=repositories"><img src="https://img.shields.io/badge/ALL_PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="All projects"></a>
+
 </div>
 
 ---
 
-### About me
+### 01 / THE SHORT VERSION
 
-I have **17+ years of hands-on IT experience**, ranging from Linux and Windows server administration to Docker deployments, monitoring, troubleshooting and operational automation. I build software to solve problems I encounter while running real systems.
+I’m **Kasun**, a Sri Lanka–based infrastructure specialist and builder. I’ve worked across Linux and Windows environments, virtualization, large-scale storage, Docker, cloud services and production troubleshooting. I also create the tools I wish existed: small automations, observability dashboards, self-hosted utilities and open-source integrations.
 
-- **Infrastructure:** Ubuntu, Debian, Windows Server, Proxmox, VMware ESXi, Docker and Compose
-- **Automation & DevOps:** Bash, Python, Ansible, GitHub Actions, n8n and systemd
-- **Observability:** Grafana, Prometheus, Loki, Netdata and Uptime Kuma
-- **Applications & data:** Node.js, PHP, REST APIs, MySQL, MariaDB and PostgreSQL
-- **Networking:** Nginx, Caddy, Cloudflare, DNS, VPN and TLS
+**My focus:** reliable operations, useful diagnostics, and software that solves real problems.
 
-> Practical systems. Clear diagnostics. Less repetitive work.
+<details>
+<summary><b>More about my background</b></summary>
 
-### Featured open-source work
+<br>
 
-| Project | What it does | Focus |
-| --- | --- | --- |
-| **[ArrMedic](https://github.com/kasundigital/arrmedic)** | Self-hosted diagnostics for Sonarr, Radarr and related media automation tools | Linux · Docker · Troubleshooting |
-| **[HA SolisCloud](https://github.com/kasundigital/ha-soliscloud)** | Home Assistant integration for SolisCloud user API | Python · Home Assistant · Energy |
-| **[QADeck](https://github.com/kasundigital/QADeck)** | Docker-first browser QA automation and reporting | Playwright · Testing · CI |
-| **[arr-lang-scanner](https://github.com/kasundigital/arr-lang-scanner)** | Audio-language inspection across Sonarr and Radarr libraries | Python · FastAPI · Docker |
-| **[Jellyfin Exporter](https://github.com/kasundigital/jellyfin-exporter)** | Monitoring metrics for self-hosted Jellyfin infrastructure | Observability · Monitoring |
-| **[Python App Deployer](https://github.com/kasundigital/python-app-deployer)** | Lightweight deployment and systemd setup for Python apps | Python · Bash · Linux |
+My work spans practical infrastructure administration and full-stack delivery, including Linux server maintenance, reverse proxies, backup workflows, media automation, API integration, monitoring, deployment and technical consulting. Much of my client work is private, so my public repositories focus on reusable tools and community solutions.
 
-### Spotlight · ArrMedic
+</details>
 
-**Diagnose · Monitor · Understand · Fix**
+### 02 / SELECTED WORK
 
-ArrMedic helps self-hosters understand failed imports, permission issues, remote-path mapping errors, queue failures, low disk space and other difficult-to-diagnose problems in the *Arr ecosystem.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[Explore ArrMedic](https://github.com/kasundigital/arrmedic) · [Container image](https://github.com/kasundigital/arrmedic/pkgs/container/arrmedic) · [Report an issue](https://github.com/kasundigital/arrmedic/issues)
+**[🚑 ArrMedic](https://github.com/kasundigital/arrmedic)**
 
-### GitHub activity
+A diagnostics toolkit for Sonarr, Radarr and related self-hosted media workflows. Built to make failed imports, paths, queues and permissions easier to understand.
+
+<sub><b>DOCKER · DIAGNOSTICS · SELF-HOSTED</b></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[☀️ HA SolisCloud](https://github.com/kasundigital/ha-soliscloud)**
+
+A Home Assistant integration for SolisCloud, with a focus on useful solar monitoring and compatibility.
+
+<sub><b>PYTHON · HOME ASSISTANT · ENERGY</b></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🧪 QADeck](https://github.com/kasundigital/QADeck)**
+
+A self-hosted, Docker-first QA automation platform for browser testing and actionable reports.
+
+<sub><b>PLAYWRIGHT · TESTING · CI/CD</b></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[🔎 arr-lang-scanner](https://github.com/kasundigital/arr-lang-scanner)**
+
+Inspect audio languages across Sonarr and Radarr libraries, with practical multi-server workflows.
+
+<sub><b>PYTHON · FASTAPI · DOCKER</b></sub>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Explore more utilities</b></summary>
+
+<br>
+
+- **[Jellyfin Exporter](https://github.com/kasundigital/jellyfin-exporter)** — monitoring data for Jellyfin environments
+- **[Python App Deployer](https://github.com/kasundigital/python-app-deployer)** — deploy Python services with less repetitive setup
+- **[Trakt to Letterboxd](https://github.com/kasundigital/trakt-to-letterboxd)** — practical media workflow automation
+
+</details>
+
+### 03 / TOOLKIT
+
+| Area | Technologies |
+| :--- | :--- |
+| **Infrastructure** | Ubuntu · Debian · Windows Server · Proxmox · VMware ESXi |
+| **Containers & delivery** | Docker · Compose · GitHub Actions · Ansible · systemd |
+| **Code & automation** | Python · Bash · JavaScript · Node.js · PHP · n8n |
+| **Observability** | Grafana · Prometheus · Loki · Netdata · Uptime Kuma |
+| **Networks & security** | Nginx · Caddy · Cloudflare · DNS · TLS · VPN |
+| **Data** | PostgreSQL · MariaDB · MySQL · SQL Server |
+
+### 04 / GITHUB ACTIVITY
 
 <div align="center">
-  <img src="./profile/stats.svg" width="49%" alt="GitHub contribution statistics" />
-  <img src="./profile/top-langs.svg" width="49%" alt="Most used languages" />
+
+<img src="./profile/stats.svg" alt="Kasun Indika GitHub activity" width="100%">
+
+<img src="./profile/top-langs.svg" alt="Languages used in public GitHub repositories" width="100%">
+
+<sub>Stats are generated by the existing repository automation; they reflect public coding activity, not the full scope of infrastructure work.</sub>
+
 </div>
 
-<sub>Statistics are maintained by GitHub Actions in this profile repository. Language statistics do not capture all infrastructure and operations work.</sub>
+### 05 / WORK TOGETHER
 
-### Let's connect
+I help with **Linux and Docker infrastructure, server administration, troubleshooting, monitoring, automation and self-hosted software**. I’m also open to collaboration on useful open-source tools.
 
-I work on server infrastructure, deployment, automation, monitoring, self-hosted applications and practical development tools. A lot of my client infrastructure work is private, but I share reusable tools where I can.
-
-**Need help with Linux, Docker or self-hosted infrastructure?** Visit [kasunindika.com](https://www.kasunindika.com) or connect on [LinkedIn](https://www.linkedin.com/in/kasundigital/).
+**[Explore my work →](https://www.kasunindika.com)** · **[Connect on LinkedIn →](https://www.linkedin.com/in/kasundigital/)** · **[Browse GitHub →](https://github.com/kasundigital?tab=repositories)**
 
 ---
 
-<div align="center"><sub>Designed & Developed by <a href="https://www.kasunindika.com">Kasun Indika</a></sub></div>
+<div align="center">
+
+<sub>BUILD RELIABLE SYSTEMS · AUTOMATE REPETITIVE WORK · SHARE WHAT HELPS</sub>
+
+<br>
+
+<sub>Designed & Developed by <a href="https://www.kasunindika.com">Kasun Indika</a></sub>
+
+</div>
