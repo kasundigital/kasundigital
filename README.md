@@ -1,125 +1,51 @@
 <div align="center">
+  <img src="./assets/github-premium-hero.svg" width="100%" alt="Kasun Indika — Build. Automate. Run without limits." />
 
-<img src="./assets/portfolio-hero-2026.svg" width="100%" alt="Kasun Indika — Build. Automate. Run without limits.">
+  <h3>Kasun Indika</h3>
+  <p><strong>Infrastructure Engineer</strong> · <strong>Automation Builder</strong> · <strong>Open-Source Developer</strong></p>
+  <p><sub>Based in Sri Lanka · 17+ years working with real-world IT systems</sub></p>
 
-### Kasun Indika
-
-**Infrastructure Engineer &nbsp;·&nbsp; Automation Builder &nbsp;·&nbsp; Open-Source Developer**
-
-<sub>Based in Sri Lanka &nbsp; | &nbsp; 17+ years working with real-world IT systems</sub>
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0b1727?style=for-the-badge&logo=googlechrome&logoColor=51e5eb)](https://www.kasunindika.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b1727?style=for-the-badge&logo=linkedin&logoColor=51e5eb)](https://www.linkedin.com/in/kasundigital/)
-[![Repositories](https://img.shields.io/badge/OPEN_SOURCE-0b1727?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/kasundigital?tab=repositories)
-
+  <p>
+    <a href="https://www.kasunindika.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0b1727?style=for-the-badge&logo=googlechrome&logoColor=51e5eb"></a>
+    <a href="https://www.linkedin.com/in/kasundigital/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b1727?style=for-the-badge&logo=linkedin&logoColor=51e5eb"></a>
+    <a href="https://github.com/kasundigital?tab=repositories"><img alt="Open Source" src="https://img.shields.io/badge/Open_Source-0b1727?style=for-the-badge&logo=github&logoColor=ffffff"></a>
+  </p>
 </div>
 
 ---
 
-### ✦ The work behind the code
+## ✦ The work behind the code
 
 I turn operational challenges into dependable tools and infrastructure. That means building useful software, keeping servers healthy, automating repetitive tasks, and making complex systems easier to manage.
 
 My background spans **Linux administration, Docker, cloud and self-hosted infrastructure, observability, storage, networking, and application development**. I value software that makes a practical difference—not just polished demos.
 
-### ◈ Selected products & projects
+## ◈ Selected products & projects
 
-*An intentionally small selection of substantial work, not a feed of recent repositories.*
+<sub><i>An intentionally small selection of substantial work, not a feed of recent repositories.</i></sub>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### 📡 [StackPulse](https://github.com/kasundigital/StackPulse-Prod)
-
-**Infrastructure monitoring, without the noise.**
-
-A self-hosted command center for server health, service checks, Docker visibility, alerts, incidents and status pages.
-
-<sub>MONITORING · DOCKER · INCIDENTS</sub>
-
-[Website ↗](https://getstackpulse.com)
-
-</td>
-<td width="50%" valign="top">
-
-#### ✉️ [MailPilot](https://github.com/kasundigital/MailPilot)
-
-**Email operations under your control.**
-
-A Docker-first email campaign platform with SMTP management, audience segmentation, campaign building and delivery insights.
-
-<sub>NODE.JS · AUTOMATION · EMAIL</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧪 [QADeck](https://github.com/kasundigital/QADeck)
-
-**Find issues before users do.**
-
-A self-hosted browser QA workspace for real Chromium testing, visual evidence, accessibility checks and issue tracking.
-
-<sub>PLAYWRIGHT · QA · DEV TOOLS</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎬 [ArrView](https://github.com/kasundigital/ArrView)
-
-**See what your media library is missing.**
-
-A compact Radarr and Sonarr companion for missing media, audio languages and download troubleshooting.
-
-<sub>SELF-HOSTED · MEDIA · DIAGNOSTICS</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💾 [VOD Storage Monitor](https://github.com/kasundigital/VOD-Storage-Monitor)
-
-**Make large storage understandable.**
-
-A read-only view of mergerfs capacity, mdadm RAID, SMART health and SnapRAID maintenance information.
-
-<sub>STORAGE · LINUX · OBSERVABILITY</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛡️ [ArrGuard](https://github.com/kasundigital/arrguard)
-
-**Recover from bad downloads automatically.**
-
-An early-stage utility to detect unusable Sonarr/Radarr downloads, reject problematic releases and request replacements.
-
-<sub>PYTHON · AUTOMATION · SERVARR</sub>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/kasundigital/StackPulse-Prod"><img src="./assets/cards/stackpulse.svg" alt="StackPulse project card" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/kasundigital/MailPilot"><img src="./assets/cards/mailpilot.svg" alt="MailPilot project card" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/kasundigital/QADeck"><img src="./assets/cards/qadeck.svg" alt="QADeck project card" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/kasundigital/ArrView"><img src="./assets/cards/arrview.svg" alt="ArrView project card" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/kasundigital/VOD-Storage-Monitor"><img src="./assets/cards/vod-storage-monitor.svg" alt="VOD Storage Monitor project card" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/kasundigital/arrguard"><img src="./assets/cards/arrguard.svg" alt="ArrGuard project card" width="100%" /></a></td>
+  </tr>
 </table>
 
 <div align="right"><a href="https://github.com/kasundigital?tab=repositories"><b>Explore all repositories →</b></a></div>
 
-### ◈ Portfolio & professional work
+## ◈ Portfolio & professional work
 
-<div align="center">
+<a href="https://www.kasunindika.com"><img src="./assets/portfolio-banner.svg" width="100%" alt="Visit kasunindika.com" /></a>
 
-**From infrastructure to intelligent automation.**
-
-I build and maintain Linux environments, design resilient Docker deployments, develop internal systems, and automate day-to-day operations. Some of my most demanding infrastructure work is private client work, so it doesn't appear in public repositories.
-
-**[Visit my portfolio & professional website →](https://www.kasunindika.com)**
-
-</div>
-
-### ◈ My engineering toolbox
+## ◈ Engineering toolbox
 
 | Specialty | Practical tools |
 | --- | --- |
@@ -130,28 +56,21 @@ I build and maintain Linux environments, design resilient Docker deployments, de
 | **Networks & delivery** | Nginx · Caddy · Cloudflare · DNS · TLS · GitHub Actions |
 | **Storage & data** | RAID · mergerfs · SnapRAID · MariaDB · PostgreSQL |
 
-### ◈ GitHub activity
+## ◈ GitHub activity
 
 <div align="center">
-
-<img src="./profile/stats.svg" alt="Kasun Indika GitHub activity summary" width="100%">
-
-<img src="./profile/top-langs.svg" alt="Programming languages across public repositories" width="100%">
-
-<sub>Generated by the existing repository workflow. Public GitHub activity represents only part of my work.</sub>
-
+  <img src="./profile/stats.svg" alt="Kasun Indika GitHub activity summary" width="100%" />
+  <br />
+  <img src="./profile/top-langs.svg" alt="Programming languages across public repositories" width="100%" />
+  <br />
+  <sub>Generated by the existing repository workflow. Public GitHub activity represents only part of my work.</sub>
 </div>
 
 ---
 
 <div align="center">
-
-### Have an infrastructure challenge or a product idea?
-
-I’m interested in useful software, dependable systems and thoughtful technical collaboration.
-
-[**Portfolio**](https://www.kasunindika.com) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/kasundigital/) &nbsp;·&nbsp; [**GitHub**](https://github.com/kasundigital)
-
-<sub>Designed &amp; Developed by <a href="https://www.kasunindika.com">Kasun Indika</a></sub>
-
+  <h3>Have an infrastructure challenge or a product idea?</h3>
+  <p>I’m interested in useful software, dependable systems and thoughtful technical collaboration.</p>
+  <p><a href="https://www.kasunindika.com"><b>Portfolio</b></a> · <a href="https://www.linkedin.com/in/kasundigital/"><b>LinkedIn</b></a> · <a href="https://github.com/kasundigital"><b>GitHub</b></a></p>
+  <sub>Designed &amp; Developed by <a href="https://www.kasunindika.com">Kasun Indika</a></sub>
 </div>
